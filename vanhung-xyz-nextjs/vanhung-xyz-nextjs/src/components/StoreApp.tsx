@@ -301,7 +301,7 @@ export default function StoreApp() {
               <div className="font-extrabold text-base sm:text-lg tracking-tight leading-none">
                 VANHUNG<span className="text-sky-600">.</span><span className="text-sky-500">X</span><span className="text-sky-400">Y</span><span className="text-emerald-400">Z</span>
               </div>
-              <div className="text-[9.5px] font-mono tracking-widest uppercase mt-0.5 text-[var(--text-muted)]">NEXT.JS DIGITAL STORE</div>
+              <div className="text-[9.5px] font-mono tracking-widest uppercase mt-0.5 text-[var(--text-muted)]">VANHUNG DIGITAL STORE</div>
             </div>
           </button>
 
