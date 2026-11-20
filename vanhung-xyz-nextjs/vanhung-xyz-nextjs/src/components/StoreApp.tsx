@@ -404,7 +404,7 @@ export default function StoreApp() {
               <div className="lg:col-span-8 space-y-4">
                 <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-medium bg-emerald-500/10 border border-emerald-500/30 text-emerald-400">
                   <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
-                  Next.js App Router + PostgreSQL Row-Level Locking · SePay Auto 3s
+                  VanHung DIGITAL SOTRE · SePay Auto 3s
                 </div>
                 <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight m-0">
                   Kho Tài Nguyên <span className="bg-gradient-to-r from-emerald-400 via-cyan-400 to-indigo-400 bg-clip-text text-transparent">MMO &amp; AI Thế Hệ Mới</span>
