@@ -206,8 +206,7 @@ export default function StoreApp() {
       qty,
       total,
       time: nowStr,
-      data: lines.join('
-'),
+      data: lines.join('\n'),
       warrantyTicket: null,
     };
 
